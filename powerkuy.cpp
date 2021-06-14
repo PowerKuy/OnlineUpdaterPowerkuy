@@ -1,7 +1,9 @@
 {
-"Version": "1.0",
+"Version": 1,
 "Creator": "PowerKuy",
-"Skipable": true,
-"Changelogs": "",
-"Link": "YT.nggkgksksk"
+"Title": "Mod Menu Update !!",
+"Info": "Hello :) , Im PowerKuy",
+"Changelogs": "Fixed Crash",
+"Link": "idk",
+"Premium": false
 }
