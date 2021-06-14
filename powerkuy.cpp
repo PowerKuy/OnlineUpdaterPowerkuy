@@ -3,5 +3,5 @@
 "Creator": "PowerKuy",
 "Skipable": true,
 "Changelogs": "",
-"Link": "YT.com"
+"Link": "YT.nggkgksksk"
 }
