@@ -1,5 +1,5 @@
 {
-"Version": 1,
+"Version": 3,
 "Creator": "PowerKuy",
 "Title": "Mod Menu Update !!",
 "Info": "Hello :) , Im PowerKuy",
