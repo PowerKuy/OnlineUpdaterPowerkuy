@@ -1,9 +1,9 @@
 {
-"Version": 4,
+"Version": 6,
 "Creator": "PowerKuy",
-"Title": "Warning",
-"Info": "NEVER JOIN IN VISUALWORLD , SOMETHING ITS WRONG.. ",
-"Changelogs": "I WILL FIX THIS...\nNew Text : Eee Moderator In There and Banning People...F Nuked World...",
+"Title": "About Multibot DC",
+"Info": "I am Fixing Multibot Disconnect Every 3Min , Just Wait ;)",
+"Changelogs": "Get Official Youtube Channel.. Link Here ↓↓",
 "Link": "https://youtube.com/c/PowerKuy",
 "Premium": false
 }
