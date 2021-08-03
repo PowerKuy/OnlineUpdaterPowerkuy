@@ -1,9 +1,9 @@
 {
-"Version": 6,
+"Version": 5,
 "Creator": "PowerKuy",
-"Title": "About Multibot DC",
-"Info": "I am Fixing Multibot Disconnect Every 3Min , Just Wait ;)",
-"Changelogs": "Get Official Youtube Channel.. Link Here ↓↓",
-"Link": "https://youtube.com/c/PowerKuy",
+"Title": "UPDATE !!",
+"Info": "- FIXED MULTIBOT DC EVERY 5 MIN",
+"Changelogs": "↓↓ Link Here ↓↓",
+"Link": "https://www.mediafire.com/file/3kj1m8it9ufq9z9/%255B_Fix_Multibot_3.67_%255D_Growtopia_3.67.apk/file",
 "Premium": false
 }
