@@ -1,9 +1,9 @@
 {
-"Version": 3,
+"Version": 5,
 "Creator": "PowerKuy",
-"Title": "About Multibot Autoban",
-"Info": "I am still trying to fix that , dont use Multibot for now, Wait until i fixed that Autoban \n This happend because ubisoft update his security\n\nLink Isnt Ready Yet",
+"Title": "Multibot Fix",
+"Info": "To avoid AutoSuspend , please use bot level 7+\n\nClick Below to Download",
 "Changelogs": "",
 "Link": "",
-"Premium": false
+"Premium": true
 }
