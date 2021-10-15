@@ -1,5 +1,5 @@
 {
-"Version": 3,
+"Version": 5,
 "Creator": "PowerKuy",
 "Title": "Multibot Fix",
 "Info": "To avoid AutoSuspend , please use bot level 7+\nThis Multibot Isnt Fully Fixed , there is still ban chance\n\nPlease Remember This is Not Fixed 100% , still have ban chance\nClick Below to Download",
