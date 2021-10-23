@@ -5,5 +5,5 @@
 "Info": "To avoid AutoSuspend , please use bot level 7+\nThis Multibot Isnt Fully Fixed , there is still ban chance\n\nPlease Remember This is Not Fixed 100% , still have ban chance\nClick Below to Download",
 "Changelogs": "",
 "Link": "https://www.mediafire.com/file/c0w3ijoej2zrclc/%255B_Multibot_Fix_%255D_Growtopia_Mod_Menu.apk/file",
-"Premium": true
+"Premium": false
 }
