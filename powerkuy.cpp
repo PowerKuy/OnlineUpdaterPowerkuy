@@ -1,9 +1,9 @@
 {
-"Version": 5,
+"Version": 6,
 "Creator": "PowerKuy",
-"Title": "Multibot Fix",
-"Info": "To avoid AutoSuspend , please use bot level 7+\nThis Multibot Isnt Fully Fixed , there is still ban chance\n\nPlease Remember This is Not Fixed 100% , still have ban chance\nClick Below to Download",
+"Title": "Ercon Fix",
+"Info": "New PowerKuy Mod\nChangelogs : \n- Fix Ercon\n- Delay Login Changed to 10second\n-Added Custom Delay Login\n\nLink Download in Pinned Comment",
 "Changelogs": "",
-"Link": "https://www.mediafire.com/file/c0w3ijoej2zrclc/%255B_Multibot_Fix_%255D_Growtopia_Mod_Menu.apk/file",
-"Premium": false
+"Link": "https://youtu.be/xvL1gNpzaeE",
+"Premium": true
 }
