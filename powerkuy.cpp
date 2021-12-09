@@ -1,5 +1,5 @@
 {
-"Version": 8,
+"Version": 7,
 "Creator": "PowerKuy",
 "Title": "About Recorder & Login Issue",
 "Info": "- For Now Please Dont Use Hack in Category(Recorder)\n- About Login Issue, Server cant handle too much player login at once, so just wait until you can login\n- This Announcement will end tommorow",
