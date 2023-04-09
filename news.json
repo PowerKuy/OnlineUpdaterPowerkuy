@@ -1,8 +1,8 @@
 {
-  "creator":"PowerKuy",
-  "teks":"Halo Guys\nGrowlauncher sedang dalam perbaikan\nHehe",
-  "tanggal":"09 April 2023, 12:15",
+  "creator":"PowerKuy Developer",
+  "teks":"Welcome to Beta GrowLauncher v1.0\n • Happy GrowLauncher\n • Debug Source",
+  "tanggal":"09 April 2023, 19:35",
   "havebutton":true,
-  "buttonurl":"",
-  "button_text":"Watch"
+  "buttonurl":"https://github.com/PowerKuy/OnlineUpdaterPowerkuy/edit/main/news.json",
+  "button_text":"Read more..."
 }
