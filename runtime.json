@@ -1,4 +1,4 @@
 {
-"script" : "checkGrowlauncherVersion(99)",
+"script" : "local welcome= false\nfunction onDraw(time)\nif welcome == false then\nwelcome = true\nsendNotification(\"Welcome to growlauncher\")\nend\nend\napplyHook()",
 "key": "hash"
 }
