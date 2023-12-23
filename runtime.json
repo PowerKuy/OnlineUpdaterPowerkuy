@@ -1,4 +1,4 @@
 {
-"script" : "",
+"script" : "local x = false; function onDraw(time) if x == false then sendNotification(\"PowerKuy Library Loaded\"); x = true end end",
 "key": "hash"
 }
