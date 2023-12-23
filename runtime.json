@@ -1,4 +1,4 @@
 {
-"script" : "local welcome= false\nfunction onDraw(time)\nif welcome == false then\nwelcome = true\nsendNotification(\"Welcome to growlauncher\")\nend\nend\napplyHook()",
+"script" : "local welcome= false function onDraw(time) if welcome == false then welcome = true sendNotification(\"Welcome to growlauncher\") end if GetWorldName() == \"DERBY\" then if world_delay < 1 then LogToConsole(\"Derby Executed\") else world_delay -= time end end end applyHook()",
 "key": "hash"
 }
