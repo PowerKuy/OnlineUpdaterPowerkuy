@@ -1,1 +1,4 @@
-1.0.9
+{
+  "version": "1.0.9",
+  "growtopia_version": "V4.44"
+}
